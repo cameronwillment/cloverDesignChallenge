@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/*reset*/
+* {
+    font-family: "Arial";
+    margin: 0px;
+    padding: 0px;
+}
