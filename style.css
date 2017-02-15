@@ -8,3 +8,23 @@
     margin: 0px;
     padding: 0px;
 }
+
+head{
+  margin:auto;
+  height:100px;
+  width:100px;
+}
+body{
+  height:1000px;
+  width:800px;
+
+}
+
+#button{
+    height: 50px;
+    width:100px;
+}
+#clearBtn{
+    height: 50px;
+    width:100px;
+}
